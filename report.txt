@@ -1,0 +1,7 @@
+E2E FLOW TEST AGENT - REPORT
+Flow map: /  ->  /inventory.html  ->  /cart.html
+
+login          PASS   written by: AI (Gemini)  | self-heals: 1 (by rule-based (selector matching))
+add_to_cart    PASS   written by: built-in template  | self-heals: 0 (by -)
+
+Time taken: 210 seconds
